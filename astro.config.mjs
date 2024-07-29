@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config'
 
 export default defineConfig({
-  site: 'https://maushmipanda.github.io/movieastro/',
+  site: 'https://maushmipanda.github.io',
    base: 'movieastro',
 
 })
